@@ -1,0 +1,2 @@
+# smart-thermostat
+Projet multidisciplinaire
