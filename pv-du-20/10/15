@@ -1,0 +1,31 @@
+pv du 20/10/2015
+
+personnes présentes : Anass Denguir ,Najlae Louhaji,Trong Quy Phan, Luca Noel
+animateur:Quy
+
+Informations complémentaires transmises par Aurelien au sujet du  projet  :
+Afin de nous faciliter l’utilisation du module wifi , une interface sera fourni pour interagir avec l’environnement arduino d’ici une semaine .
+Pour répondre à la question d’ Anass posée la semaine dernière ( comment savoir si notre projet est compatible pour toute sorte d’environnements?),plusieurs boîtes simulant un environnement physique seront accessibles  .
+Aurélien demande de faire des  recherches   au sujet d’un modèle qui dicte la rétroaction de la variable , c’est à dire  la manière dont nous allons chauffer l’environnement  , il s’agit du  coeur de l’algorithme de contrôle (pour exemple:on peut essayer de créer une fonction curviligne qui définit la manière dont la température évolue ).
+Il nous est également demandé de se renseigner sur le  git afin de pouvoir partager,importer, corriger les rapports  .
+faire un shéma des cablages arduino , wifi , capteurs , Rayspberry 
+ recherche sur les data sheet 
+pour la thermistance,la résistance thermique sera accompagnée d’une résistance normale 
+
+
+
+les présentations des différents travaux :
+Lucas a travaillé sur les recherches bibliographiques et a réuni les sources.
+Anass a rédigé un code qui permet d’allumer une LED verte si un mouvement est détecté et une LED rouge dans le cas contraire .Il a également introduit le langage de programmation en expliquant que certaines fonctions étaient prédéfinies (ex:digitalread) ou encore qu’il fallait préciser la nature de la variable qu’on insère.
+Quy a présenté le Rayspberry .Il a expliqué les différents branchements et il a également parlé du système d'exploitation inséré (Linux).
+
+
+
+odj:
+
+trouver un plan de travail
+Najlae: s’occuper du git et poster le pv dedans
+Quy:recherches sur les serveurs pour avoir une meilleure idée de son utilisation
+Luca:continuer les recherches bibliographiques et  poster la bibliographie sur le git, 
+Anass:codage de la thermistance et son câblage
+tout le monde doit commencer à s’entraîner en Latex
